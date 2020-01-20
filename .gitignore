@@ -1,0 +1,4 @@
+yesod-devel
+.stack-work
+yesod-sample.cabal
+yesod-sample.sqlite3
